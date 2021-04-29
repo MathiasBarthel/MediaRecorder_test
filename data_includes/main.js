@@ -15,7 +15,7 @@ Sequence(
 
 
 // Replace the URL with one that points to a PHP file on your own webserver
-InitiateRecorder("https://my.server/path/to/file.php").label("init")
+InitiateRecorder("https://amor.cms.hu-belrin.de/~barthmat/zufaellig.php").label("init")
 
 
 // This creates a trial labeled 'async' that will upload
